@@ -1,5 +1,3 @@
-# CUDA on WSL
-
 # References
 
 1. [CUDA on WSL User Guide](https://docs.nvidia.com/cuda/wsl-user-guide/index.html)
